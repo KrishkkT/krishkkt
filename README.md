@@ -30,7 +30,6 @@ Focus Areas:
   - Serverless Architectures & API Integration
   - DevOps Automation & CI/CD Pipelines
   - Full-Stack Web Development
-  - Local & Search Engine Optimization (SEO/AEO)
 ```
 
 ⚡ Passionate about designing secure, resilient, and highly-scalable cloud architectures.  
