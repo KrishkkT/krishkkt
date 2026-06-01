@@ -30,13 +30,13 @@ Focus Areas:
   - Serverless Architectures & API Integration
   - DevOps Automation & CI/CD Pipelines
   - Full-Stack Web Development
-  - Local & Search Engine Optimization (SEO/AEO)
 ```
 
-⚡ Passionate about designing secure, resilient, and highly-scalable cloud architectures.  
-🚀 Deploying serverless automation tools and DevOps pipelines to accelerate delivery.  
-🐧 Managing cloud infrastructures, writing Infrastructure as Code (IaC), and building monitoring dashboards.  
-🌍 Building premium web applications with smooth layouts, glassmorphism, and custom interactive animations.  
+💡 Passionate about designing secure, scalable and reliable cloud applications
+🚀 Building real-world AWS projects with serverless architectures
+🐧 Exploring Linux systems, Docker containers & cloud automation
+⚡ Interested in scalable infrastructure and performance optimization
+🌍 Continuously learning modern cloud technologies and DevOps workflows  
 
 ---
 
