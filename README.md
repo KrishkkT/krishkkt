@@ -34,7 +34,7 @@
 
 ### ⚡ Cloud & Development Stack
 
-<div align="left">
+<div align="center">
   <!-- Languages -->
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -68,7 +68,7 @@
 
 ### ☁️ AWS Services & Cloud Technologies
 
-<div align="left">
+<div align="center">
   <img src="https://img.shields.io/badge/Amazon_S3-569A31?style=flat-square&logo=amazons3&logoColor=white" alt="Amazon S3" />
   <img src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white" alt="AWS Lambda" />
   <img src="https://img.shields.io/badge/AWS_CloudTrail-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS CloudTrail" />
@@ -84,7 +84,7 @@
 ### 🚀 Featured Projects
 
 #### ☁️ Cloudiverse Architect — AI-Driven Cloud Architecture Studio
-🌐 [Live Website](https://cloudiverse.app) | 🐙 [GitHub Repository](https://github.com/krishkkt/cloudiverse-webapp)
+<p align="center">🌐 [Live Website](https://cloudiverse.app) | 🐙 [GitHub Repository](https://github.com/krishkkt/cloudiverse-webapp)</p>
 🔹 **Overview**  
 An interactive decision studio that helps developers design, cost-estimate, and export infrastructure using plain-language commands. It converts requirements into Terraform templates and visualizes budget metrics.
 ⚡ **Key Highlights**
@@ -94,7 +94,7 @@ An interactive decision studio that helps developers design, cost-estimate, and 
 - **Tech Stack:** React 18, Vite, Tailwind CSS, Recharts, Axios, Node.js
 
 #### 🛒 Nivara E-Commerce — Full-Stack E-Commerce Platform
-🌐 [Live Website](https://nivarasilver.in) | 🐙 [GitHub Repository](https://github.com/krishkkt/nivara-ecom-website)
+<p align="center">🌐 [Live Website](https://nivarasilver.in) | 🐙 [GitHub Repository](https://github.com/krishkkt/nivara-ecom-website)</p>
 🔹 **Overview**  
 A production-grade e-commerce application integrating modern transaction methods, user security policies, and automated delivery.
 ⚡ **Key Highlights**
@@ -105,7 +105,7 @@ A production-grade e-commerce application integrating modern transaction methods
 - **Tech Stack:** Next.js 14, TypeScript, Tailwind CSS, Supabase / PostgreSQL, Razorpay, Shiprocket
 
 #### 🤖 LinkedIn Auto-Publishing Workflow — Serverless Content Automation
-🐙 [GitHub Repository](https://github.com/krishkkt/LinkedIn-Auto-Publishing-Workflow)
+<p align="center">🐙 [GitHub Repository](https://github.com/krishkkt/LinkedIn-Auto-Publishing-Workflow)</p>
 🔹 **Overview**  
 An automated publishing pipeline that takes a blog post from concept to a live webpage and propagates it on LinkedIn using AI formatting.
 ⚡ **Key Highlights**
@@ -116,7 +116,7 @@ An automated publishing pipeline that takes a blog post from concept to a live w
 - **Tech Stack:** n8n, Make, OpenAI API, LinkedIn API, Webhooks, Node.js
 
 #### ☁️ AWS Cloud Threat Logger — Serverless AWS Monitoring & Alerting
-🐙 [GitHub Repository](https://github.com/krishkkt/AWS-Cloud-Threat-Logger) | ⚙️ *Serverless Utility (No Web UI)*
+<p align="center">🐙 [GitHub Repository](https://github.com/krishkkt/AWS-Cloud-Threat-Logger) | ⚙️ *Serverless Utility (No Web UI)*</p>
 🔹 **Overview**  
 A serverless monitoring tool that watches AWS infrastructure logs and triggers automated real-time alert notifications when specific events occur.
 ⚡ **Key Highlights**
@@ -126,7 +126,7 @@ A serverless monitoring tool that watches AWS infrastructure logs and triggers a
 - **Tech Stack:** Python 3.12, AWS Lambda, Amazon S3, AWS CloudTrail, AWS SES, IAM Roles
 
 #### ⚖️ Thakker & Associates — Typographic Law Firm Platform
-🌐 [Live Website](https://jtlaw.in) | 🐙 [GitHub Repository](https://github.com/krishkkt/lawfirm-website)
+<p align="center">🌐 [Live Website](https://jtlaw.in) | 🐙 [GitHub Repository](https://github.com/krishkkt/lawfirm-website)</p>
 🔹 **Overview**  
 A high-performance corporate platform optimized with interactive scroll dynamics and custom search configurations.
 ⚡ **Key Highlights**
