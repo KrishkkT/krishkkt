@@ -42,35 +42,47 @@ Focus Areas:
 
 ### ⚡ Cloud & Development Stack
 
+#### ☁️ Cloud & Infrastructure
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="45" height="45"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="45" height="45"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="45" height="45"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="45" height="45"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="45" height="45"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="45" height="45"/>
-  <br/><br/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" width="45" height="45"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" width="45" height="45"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="45" height="45"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="45" height="45"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/GCP%20(Medium)-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Azure%20(Basics)-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
 </p>
 
----
-
-### ☁️ AWS Services & Cloud Technologies
-
+#### 🛠️ DevOps & Tools
 <p align="center">
-  <img src="https://img.shields.io/badge/Amazon_S3-569A31?style=flat-square&logo=amazons3&logoColor=white" alt="Amazon S3" />
-  <img src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white" alt="AWS Lambda" />
-  <img src="https://img.shields.io/badge/AWS_CloudTrail-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS CloudTrail" />
-  <img src="https://img.shields.io/badge/AWS_SES-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS SES" />
-  <img src="https://img.shields.io/badge/AWS_IAM-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS IAM" />
-  <img src="https://img.shields.io/badge/Amazon_Cognito-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" alt="Amazon Cognito" />
-  <img src="https://img.shields.io/badge/Amazon_API_Gateway-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" alt="Amazon API Gateway" />
-  <img src="https://img.shields.io/badge/Amazon_CloudWatch-FF9900?style=flat-square&logo=amazoncloudwatch&logoColor=white" alt="Amazon CloudWatch" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
+</p>
+
+#### 🚀 Languages & Frameworks
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  <br/><br/>
+  <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React.js" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
+</p>
+
+#### 📚 Core Concepts
+<p align="center">
+  <img src="https://img.shields.io/badge/DSA-333333?style=for-the-badge" alt="DSA" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/OOP-333333?style=for-the-badge" alt="OOP" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/DBMS-333333?style=for-the-badge" alt="DBMS" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Operating_Systems-333333?style=for-the-badge" alt="OS" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Computer_Networks-333333?style=for-the-badge" alt="Networks" />
 </p>
 
 ---
