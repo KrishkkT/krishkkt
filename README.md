@@ -32,11 +32,11 @@ Focus Areas:
   - Full-Stack Web Development
 ```
 
-💡 Passionate about designing secure, scalable and reliable cloud applications
-🚀 Building real-world AWS projects with serverless architectures
-🐧 Exploring Linux systems, Docker containers & cloud automation
-⚡ Interested in scalable infrastructure and performance optimization
-🌍 Continuously learning modern cloud technologies and DevOps workflows  
+💡 Passionate about designing secure, scalable and reliable cloud applications <br>
+🚀 Building real-world AWS projects with serverless architectures <br>
+🐧 Exploring Linux systems, Docker containers & cloud automation <br>
+⚡ Interested in scalable infrastructure and performance optimization <br>
+🌍 Continuously learning modern cloud technologies and DevOps workflows  <br>
 
 ---
 
