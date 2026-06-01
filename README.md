@@ -1,74 +1,68 @@
-# Hi 👋, I'm Krish Thakker
-
-### Cloud & DevOps Engineer, Full-Stack Developer
-
-<p align="center">
-  <b>A tech enthusiast dedicated to Cloud Engineering, DevOps Automation, and Premium Full-Stack Development. I build highly scalable, reliable, and automated cloud-native infrastructures.</b>
-</p>
+<div align="center">
+  <h1>Hi 👋, I'm Krish Thakker</h1>
+  <h3>Cloud & DevOps Engineer ☁️</h3>
+  <p><b>A tech enthusiast dedicated to Cloud Engineering, DevOps Automation, and Premium Full-Stack Development.<br/>I build highly scalable, reliable, and automated cloud-native infrastructures.</b></p>
+</div>
 
 <p align="center">
-  <a href="https://krishthakker.in" target="_blank">🌐 Website</a> •
-  <a href="https://linkedin.com/in/krishthakker08" target="_blank">💼 LinkedIn</a> •
-  <a href="https://github.com/krishkkt" target="_blank">🐙 GitHub</a>
+  <a href="https://krishthakker.in" target="_blank">
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
+  </a>&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/krishthakker08" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>&nbsp;&nbsp;
+  <a href="https://github.com/KrishkkT" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </p>
 
 ---
 
 ### ☁️ About Me
 
-- 💼 **Name:** Krish Thakker
-- 🌍 **Location:** Gujarat, India
-- 🎓 **Education:** Information Technology
-- 🎯 **Focus Areas:**
-  - **Cloud Infrastructure & DevOps** (AWS, CI/CD, Infrastructure as Code, Serverless)
-  - **Full-Stack Development** (Next.js 14, React, TypeScript, Supabase, PostgreSQL)
-  - **Workflows & Automation** (n8n, Make/Integromat, AI Agent Workflows, APIs)
-  - **SEO & AEO Optimizations** (JSON-LD schemas, OG/Twitter tags, Geo-targeting)
+```yaml
+Name: Krish Thakker
+Location: Gujarat, India
+Role: Cloud & DevOps Engineer | Full-Stack Developer
+Education: B.Tech Information Technology
+Focus Areas:
+  - AWS Cloud Infrastructure
+  - Serverless Architectures & API Integration
+  - DevOps Automation & CI/CD Pipelines
+  - Full-Stack Web Development
+  - Local & Search Engine Optimization (SEO/AEO)
+```
 
-⚡ Passionate about designing secure, resilient, and highly-scalable cloud architectures.
-🚀 Deploying serverless automation tools and DevOps pipelines to accelerate delivery.
-🐧 Managing cloud infrastructures, writing Infrastructure as Code (IaC), and building monitoring dashboards.
-🌍 Building premium web applications with smooth layouts, glassmorphism, and custom interactive animations.
+⚡ Passionate about designing secure, resilient, and highly-scalable cloud architectures.  
+🚀 Deploying serverless automation tools and DevOps pipelines to accelerate delivery.  
+🐧 Managing cloud infrastructures, writing Infrastructure as Code (IaC), and building monitoring dashboards.  
+🌍 Building premium web applications with smooth layouts, glassmorphism, and custom interactive animations.  
 
 ---
 
 ### ⚡ Cloud & Development Stack
 
-<div align="center">
-  <!-- Languages -->
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  
-  <br/>
-  
-  <!-- Frameworks & UI -->
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
-  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" alt="Three.js" />
-
-  <br/>
-
-  <!-- Databases & Serverless -->
-  <img src="https://img.shields.io/badge/PostgreSQL-316194?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/n8n-FF6F61?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
-  <img src="https://img.shields.io/badge/Make-4F7CFF?style=for-the-badge&logo=make&logoColor=white" alt="Make" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-</div>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="45" height="45"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="45" height="45"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="45" height="45"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="45" height="45"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="45" height="45"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="45" height="45"/>
+  <br/><br/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" width="45" height="45"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" width="45" height="45"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="45" height="45"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="45" height="45"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
+</p>
 
 ---
 
 ### ☁️ AWS Services & Cloud Technologies
 
-<div align="center">
+<p align="center">
   <img src="https://img.shields.io/badge/Amazon_S3-569A31?style=flat-square&logo=amazons3&logoColor=white" alt="Amazon S3" />
   <img src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white" alt="AWS Lambda" />
   <img src="https://img.shields.io/badge/AWS_CloudTrail-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS CloudTrail" />
@@ -77,16 +71,23 @@
   <img src="https://img.shields.io/badge/Amazon_Cognito-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" alt="Amazon Cognito" />
   <img src="https://img.shields.io/badge/Amazon_API_Gateway-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" alt="Amazon API Gateway" />
   <img src="https://img.shields.io/badge/Amazon_CloudWatch-FF9900?style=flat-square&logo=amazoncloudwatch&logoColor=white" alt="Amazon CloudWatch" />
-</div>
+</p>
 
 ---
 
 ### 🚀 Featured Projects
 
 #### ☁️ Cloudiverse Architect — AI-Driven Cloud Architecture Studio
-<p align="center">🌐 [Live Website](https://cloudiverse.app) | 🐙 [GitHub Repository](https://github.com/krishkkt/cloudiverse-webapp)</p>
+<p align="center">
+  <a href="https://cloudiverse.app" target="_blank">
+    <img src="https://img.shields.io/badge/Live%20Website-4F7CFF?style=flat-square&logo=google-chrome&logoColor=white" alt="Live Website" />
+  </a>&nbsp;&nbsp;
+  <a href="https://github.com/krishkkt/cloudiverse-webapp" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub%20Repository-121621?style=flat-square&logo=github&logoColor=white" alt="GitHub Repository" />
+  </a>
+</p>
 🔹 **Overview**  
-An interactive decision studio that helps developers design, cost-estimate, and export infrastructure using plain-language commands. It converts requirements into Terraform templates and visualizes budget metrics.
+An interactive decision studio that helps developers design, cost-estimate, and export infrastructure using plain-language commands. It converts requirements into Terraform templates and visualizes budget metrics.  
 ⚡ **Key Highlights**
 - Built an interactive multi-zone canvas (Decision Rail, Context Bar, AI Dock) using React.
 - Provided real-time multi-cloud price comparisons and charts with **Recharts**.
@@ -94,9 +95,16 @@ An interactive decision studio that helps developers design, cost-estimate, and 
 - **Tech Stack:** React 18, Vite, Tailwind CSS, Recharts, Axios, Node.js
 
 #### 🛒 Nivara E-Commerce — Full-Stack E-Commerce Platform
-<p align="center">🌐 [Live Website](https://nivarasilver.in) | 🐙 [GitHub Repository](https://github.com/krishkkt/nivara-ecom-website)</p>
+<p align="center">
+  <a href="https://nivarasilver.in" target="_blank">
+    <img src="https://img.shields.io/badge/Live%20Website-B29789?style=flat-square&logo=google-chrome&logoColor=white" alt="Live Website" />
+  </a>&nbsp;&nbsp;
+  <a href="https://github.com/krishkkt/nivara-ecom-website" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub%20Repository-121621?style=flat-square&logo=github&logoColor=white" alt="GitHub Repository" />
+  </a>
+</p>
 🔹 **Overview**  
-A production-grade e-commerce application integrating modern transaction methods, user security policies, and automated delivery.
+A production-grade e-commerce application integrating modern transaction methods, user security policies, and automated delivery.  
 ⚡ **Key Highlights**
 - Built user onboarding, reset systems, and JWT-secured sessions.
 - Integrated **Razorpay** payment gateway and webhook synchronization.
@@ -105,9 +113,13 @@ A production-grade e-commerce application integrating modern transaction methods
 - **Tech Stack:** Next.js 14, TypeScript, Tailwind CSS, Supabase / PostgreSQL, Razorpay, Shiprocket
 
 #### 🤖 LinkedIn Auto-Publishing Workflow — Serverless Content Automation
-<p align="center">🐙 [GitHub Repository](https://github.com/krishkkt/LinkedIn-Auto-Publishing-Workflow)</p>
+<p align="center">
+  <a href="https://github.com/krishkkt/LinkedIn-Auto-Publishing-Workflow" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub%20Repository-121621?style=flat-square&logo=github&logoColor=white" alt="GitHub Repository" />
+  </a>
+</p>
 🔹 **Overview**  
-An automated publishing pipeline that takes a blog post from concept to a live webpage and propagates it on LinkedIn using AI formatting.
+An automated publishing pipeline that takes a blog post from concept to a live webpage and propagates it on LinkedIn using AI formatting.  
 ⚡ **Key Highlights**
 - Created an end-to-end flow using **n8n** and **Make (Integromat)**.
 - Integrated **OpenAI API** for post restructuring and summary generation.
@@ -116,9 +128,14 @@ An automated publishing pipeline that takes a blog post from concept to a live w
 - **Tech Stack:** n8n, Make, OpenAI API, LinkedIn API, Webhooks, Node.js
 
 #### ☁️ AWS Cloud Threat Logger — Serverless AWS Monitoring & Alerting
-<p align="center">🐙 [GitHub Repository](https://github.com/krishkkt/AWS-Cloud-Threat-Logger) | ⚙️ *Serverless Utility (No Web UI)*</p>
+<p align="center">
+  <a href="https://github.com/krishkkt/AWS-Cloud-Threat-Logger" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub%20Repository-121621?style=flat-square&logo=github&logoColor=white" alt="GitHub Repository" />
+  </a>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Serverless%20Utility-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" alt="Serverless Utility" />
+</p>
 🔹 **Overview**  
-A serverless monitoring tool that watches AWS infrastructure logs and triggers automated real-time alert notifications when specific events occur.
+A serverless monitoring tool that watches AWS infrastructure logs and triggers automated real-time alert notifications when specific events occur.  
 ⚡ **Key Highlights**
 - Streamed account activity logs using **AWS CloudTrail** into S3.
 - Built event-driven **AWS Lambda** triggers to ingest and parse log archives automatically.
@@ -126,9 +143,16 @@ A serverless monitoring tool that watches AWS infrastructure logs and triggers a
 - **Tech Stack:** Python 3.12, AWS Lambda, Amazon S3, AWS CloudTrail, AWS SES, IAM Roles
 
 #### ⚖️ Thakker & Associates — Typographic Law Firm Platform
-<p align="center">🌐 [Live Website](https://jtlaw.in) | 🐙 [GitHub Repository](https://github.com/krishkkt/lawfirm-website)</p>
+<p align="center">
+  <a href="https://jtlaw.in" target="_blank">
+    <img src="https://img.shields.io/badge/Live%20Website-B8972A?style=flat-square&logo=google-chrome&logoColor=white" alt="Live Website" />
+  </a>&nbsp;&nbsp;
+  <a href="https://github.com/krishkkt/lawfirm-website" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub%20Repository-121621?style=flat-square&logo=github&logoColor=white" alt="GitHub Repository" />
+  </a>
+</p>
 🔹 **Overview**  
-A high-performance corporate platform optimized with interactive scroll dynamics and custom search configurations.
+A high-performance corporate platform optimized with interactive scroll dynamics and custom search configurations.  
 ⚡ **Key Highlights**
 - Configured custom hook-driven scroll dynamics and staggered blob layouts with **Framer Motion**.
 - Tailored full JSON-LD structural schema to support local indexing (AEO/GEO).
@@ -140,15 +164,27 @@ A high-performance corporate platform optimized with interactive scroll dynamics
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=krishkkt&show_icons=true&theme=dark" alt="Krish's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KrishkkT&show_icons=true&theme=dark" alt="Krish's GitHub Stats" />
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrishkkT&layout=compact&theme=dark" alt="Top Languages" />
+  <br/><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KrishkkT&theme=dark" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishkkt&layout=compact&theme=dark" alt="Top Languages" />
-</p>
+---
+
+### 🏆 Achievements & Certifications
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=krishkkt&theme=dark" alt="GitHub Streak" />
+  <a href="https://www.credly.com/badges/bdd22e1f-d035-41c7-8ca3-58a0f3e39cdb/public_url" target="_blank">
+    <img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/linkedin_thumb_image.png" width="110" height="110" alt="AWS Certified Cloud Practitioner" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.credly.com/badges/e28c558f-2fca-4b9b-9114-af2fc3b782d9" target="_blank">
+    <img src="https://images.credly.com/images/54fdb971-fd75-4c35-88d3-a26abf11dfc8/linkedin_thumb_image.png" width="110" height="110" alt="AWS Cloud Club Captain" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.credly.com/badges/4c750f94-5f46-456a-a868-1f08a128478d" target="_blank">
+    <img src="https://images.credly.com/images/ef9f86ad-4e53-4dbc-8951-e4cab81ff09e/linkedin_thumb_blob" width="110" height="110" alt="Google Cybersecurity Professional" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 ---
@@ -165,14 +201,14 @@ A high-performance corporate platform optimized with interactive scroll dynamics
 
 ### 🌍 Connect With Me
 
-<p align="left">
+<p align="center">
   <a href="https://linkedin.com/in/krishthakker08" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+  </a>&nbsp;&nbsp;
   <a href="https://krishthakker.in" target="_blank">
     <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
-  </a>
-  <a href="https://github.com/krishkkt" target="_blank">
+  </a>&nbsp;&nbsp;
+  <a href="https://github.com/KrishkkT" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
