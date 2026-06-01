@@ -164,9 +164,9 @@ A high-performance corporate platform optimized with interactive scroll dynamics
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KrishkkT&show_icons=true&theme=dark" alt="Krish's GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KrishkkT&theme=dracula" alt="GitHub Profile Details" />
   <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrishkkT&layout=compact&theme=dark" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KrishkkT&theme=dracula" alt="GitHub Stats" />
   <br/><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KrishkkT&theme=dark" alt="GitHub Streak" />
 </p>
@@ -177,13 +177,13 @@ A high-performance corporate platform optimized with interactive scroll dynamics
 
 <p align="center">
   <a href="https://www.credly.com/badges/bdd22e1f-d035-41c7-8ca3-58a0f3e39cdb/public_url" target="_blank">
-    <img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/linkedin_thumb_image.png" width="110" height="110" alt="AWS Certified Cloud Practitioner" />
+    <img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/linkedin_thumb_image.png" width="210" height="110" alt="AWS Certified Cloud Practitioner" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.credly.com/badges/e28c558f-2fca-4b9b-9114-af2fc3b782d9" target="_blank">
-    <img src="https://images.credly.com/images/54fdb971-fd75-4c35-88d3-a26abf11dfc8/linkedin_thumb_image.png" width="110" height="110" alt="AWS Cloud Club Captain" />
+    <img src="https://images.credly.com/images/54fdb971-fd75-4c35-88d3-a26abf11dfc8/linkedin_thumb_image.png" width="210" height="110" alt="AWS Cloud Club Captain" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.credly.com/badges/4c750f94-5f46-456a-a868-1f08a128478d" target="_blank">
-    <img src="https://images.credly.com/images/ef9f86ad-4e53-4dbc-8951-e4cab81ff09e/linkedin_thumb_blob" width="110" height="110" alt="Google Cybersecurity Professional" />
+    <img src="https://images.credly.com/images/ef9f86ad-4e53-4dbc-8951-e4cab81ff09e/linkedin_thumb_blob" width="210" height="110" alt="Google Cybersecurity Professional" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
@@ -196,22 +196,6 @@ A high-performance corporate platform optimized with interactive scroll dynamics
 - 🤖 AI & Automation: Designing autonomous workflows with n8n/Make, integrating LLMs, and building custom agent systems
 - 🚀 Advanced Full-Stack Dev: Deep-diving into Next.js Server Actions, performance optimization, and distributed database caching
 - ⚙️ Infrastructure & Tools: Automating deployments using Terraform (IaC) and container management with Docker/Docker Compose
-
----
-
-### 🌍 Connect With Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/krishthakker08" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>&nbsp;&nbsp;
-  <a href="https://krishthakker.in" target="_blank">
-    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
-  </a>&nbsp;&nbsp;
-  <a href="https://github.com/KrishkkT" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
 
 ---
 
