@@ -36,13 +36,14 @@ Focus Areas:
 🚀 Building real-world AWS projects with serverless architectures <br>
 🐧 Exploring Linux systems, Docker containers & cloud automation <br>
 ⚡ Interested in scalable infrastructure and performance optimization <br>
-🌍 Continuously learning modern cloud technologies and DevOps workflows  <br>
+🌍 Continuously learning modern cloud technologies and DevOps workflows <br>
 
 ---
 
 ### ⚡ Cloud & Development Stack
 
 #### ☁️ Cloud & Infrastructure
+
 <p align="center">
   <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/GCP%20(Medium)-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP" />&nbsp;&nbsp;
@@ -51,6 +52,7 @@ Focus Areas:
 </p>
 
 #### 🛠️ DevOps & Tools
+
 <p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />&nbsp;&nbsp;
@@ -62,6 +64,7 @@ Focus Areas:
 </p>
 
 #### 🚀 Languages & Frameworks
+
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />&nbsp;&nbsp;
@@ -77,6 +80,7 @@ Focus Areas:
 </p>
 
 #### 📚 Core Concepts
+
 <p align="center">
   <img src="https://img.shields.io/badge/DSA-333333?style=for-the-badge" alt="DSA" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/OOP-333333?style=for-the-badge" alt="OOP" />&nbsp;&nbsp;
@@ -90,6 +94,7 @@ Focus Areas:
 ### 🚀 Featured Projects
 
 #### ☁️ Cloudiverse Architect — AI-Driven Cloud Architecture Studio
+
 <p align="center">
   <a href="https://cloudiverse.app" target="_blank">
     <img src="https://img.shields.io/badge/Live%20Website-4F7CFF?style=flat-square&logo=google-chrome&logoColor=white" alt="Live Website" />
@@ -107,6 +112,7 @@ An interactive decision studio that helps developers design, cost-estimate, and 
 - **Tech Stack:** React 18, Vite, Tailwind CSS, Recharts, Axios, Node.js
 
 #### 🛒 Nivara E-Commerce — Full-Stack E-Commerce Platform
+
 <p align="center">
   <a href="https://nivarasilver.in" target="_blank">
     <img src="https://img.shields.io/badge/Live%20Website-B29789?style=flat-square&logo=google-chrome&logoColor=white" alt="Live Website" />
@@ -125,6 +131,7 @@ A production-grade e-commerce application integrating modern transaction methods
 - **Tech Stack:** Next.js 14, TypeScript, Tailwind CSS, Supabase / PostgreSQL, Razorpay, Shiprocket
 
 #### 🤖 LinkedIn Auto-Publishing Workflow — Serverless Content Automation
+
 <p align="center">
   <a href="https://github.com/krishkkt/LinkedIn-Auto-Publishing-Workflow" target="_blank">
     <img src="https://img.shields.io/badge/GitHub%20Repository-121621?style=flat-square&logo=github&logoColor=white" alt="GitHub Repository" />
@@ -140,6 +147,7 @@ An automated publishing pipeline that takes a blog post from concept to a live w
 - **Tech Stack:** n8n, Make, OpenAI API, LinkedIn API, Webhooks, Node.js
 
 #### ☁️ AWS Cloud Threat Logger — Serverless AWS Monitoring & Alerting
+
 <p align="center">
   <a href="https://github.com/krishkkt/AWS-Cloud-Threat-Logger" target="_blank">
     <img src="https://img.shields.io/badge/GitHub%20Repository-121621?style=flat-square&logo=github&logoColor=white" alt="GitHub Repository" />
@@ -155,6 +163,7 @@ A serverless monitoring tool that watches AWS infrastructure logs and triggers a
 - **Tech Stack:** Python 3.12, AWS Lambda, Amazon S3, AWS CloudTrail, AWS SES, IAM Roles
 
 #### ⚖️ Thakker & Associates — Typographic Law Firm Platform
+
 <p align="center">
   <a href="https://jtlaw.in" target="_blank">
     <img src="https://img.shields.io/badge/Live%20Website-B8972A?style=flat-square&logo=google-chrome&logoColor=white" alt="Live Website" />
@@ -188,13 +197,16 @@ A high-performance corporate platform optimized with interactive scroll dynamics
 ### 🏆 Achievements & Certifications
 
 <p align="center">
-  <a href="https://www.credly.com/badges/bdd22e1f-d035-41c7-8ca3-58a0f3e39cdb/public_url" target="_blank">
+  <a href="https://www.credly.com/badges/9dba3dd3-ed09-4af6-98a5-15ddfaca774d/public" target="_blank">
+    <img src="https://images.credly.com/size/680x680/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="210" height="110" alt="AWS Certified Solutions Architect" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.credly.com/badges/bdd22e1f-d035-41c7-8ca3-58a0f3e39cdb/public" target="_blank">
     <img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/linkedin_thumb_image.png" width="210" height="110" alt="AWS Certified Cloud Practitioner" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.credly.com/badges/e28c558f-2fca-4b9b-9114-af2fc3b782d9" target="_blank">
+  <a href="https://www.credly.com/badges/e28c558f-2fca-4b9b-9114-af2fc3b782d9/public" target="_blank">
     <img src="https://images.credly.com/images/54fdb971-fd75-4c35-88d3-a26abf11dfc8/linkedin_thumb_image.png" width="210" height="110" alt="AWS Cloud Club Captain" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.credly.com/badges/4c750f94-5f46-456a-a868-1f08a128478d" target="_blank">
+  <a href="https://www.credly.com/badges/4c750f94-5f46-456a-a868-1f08a128478d/public" target="_blank">
     <img src="https://images.credly.com/images/ef9f86ad-4e53-4dbc-8951-e4cab81ff09e/linkedin_thumb_blob" width="210" height="110" alt="Google Cybersecurity Professional" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
@@ -212,7 +224,9 @@ A high-performance corporate platform optimized with interactive scroll dynamics
 ---
 
 ### ⚡ Philosophy
+
 **Build • Learn • Deploy • Scale ☁️**
 
 ### 🚀 Career Goal
+
 Aspiring Cloud & DevOps Engineer focused on building resilient cloud infrastructure, automated workflows, and high-performance full-stack applications.
