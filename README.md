@@ -198,7 +198,7 @@ A high-performance corporate platform optimized with interactive scroll dynamics
 
 <p align="center">
   <a href="https://www.credly.com/badges/9dba3dd3-ed09-4af6-98a5-15ddfaca774d/public" target="_blank">
-    <img src="https://images.credly.com/size/680x680/images/0e284c3f-5164-4b21-8660-0d84737941bc/linkedin_thumb_image.png" width="210" height="110" alt="AWS Certified Solutions Architect" />
+    <img src="https://images.credly.com/size/680x680/images/0e284c3f-5164-4b21-8660-0d84737941bc/linkedin_thumb_image.png" width="210" height="150" alt="AWS Certified Solutions Architect" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.credly.com/badges/bdd22e1f-d035-41c7-8ca3-58a0f3e39cdb/public" target="_blank">
     <img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/linkedin_thumb_image.png" width="210" height="110" alt="AWS Certified Cloud Practitioner" />
